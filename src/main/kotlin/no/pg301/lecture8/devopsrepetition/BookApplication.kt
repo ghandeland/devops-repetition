@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class DevopsrepetitionApplication
+class BooksApplication
 
 fun main(args: Array<String>) {
-	runApplication<DevopsrepetitionApplication>(*args)
+	runApplication<BooksApplication>(*args)
 }
